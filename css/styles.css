@@ -1,0 +1,10 @@
+*{
+  text-align: center;
+}
+
+#drinks{
+  display: none;
+}
+li{
+ margin-right:7%;
+}
